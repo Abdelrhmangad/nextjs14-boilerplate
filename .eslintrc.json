@@ -1,3 +1,6 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "indent": 1 // Enforce 2 spaces per indentation level with spaces
+  }
 }
